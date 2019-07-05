@@ -1,3 +1,10 @@
+#  <span style="color:red">This Project Has *Moved* ! </span>
+
+Please see [https://github.com/CrescoEdge/quickstart](https://github.com/CrescoEdge/quickstart) for new Cresco repositories.
+
+---
+
+
 # Cresco-Skeleton-Plugin
 The Cresco Skeleton Plugin outlines the most basic pieces required of a plugin for the Cresco framework. Outlined here are the necessary changes to customize this code for your own requirements.
 
